@@ -18,7 +18,7 @@ A pesquisa deve ser feita com 50 entrevistados e o no final, o programa deverá 
 
 - b) quantidade de respostas “RUIM
 
-## Observações: utilizar a estrutura de decisão para verificação da opinião e realizar testes com 10 entrevistados.
+<h1 align="center">   ## Observações: utilizar a estrutura de decisão para verificação da opinião e realizar testes com 10 entrevistados. </h1>
 
 </h3>
 
